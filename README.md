@@ -1,2 +1,2 @@
 # Colors-Android
-Built using Jetpack compose and demonstrates the some animations, a collapsible header and a toggle theme.
+Built using Jetpack compose and demonstrates some animations, a collapsible header and a toggle theme.
